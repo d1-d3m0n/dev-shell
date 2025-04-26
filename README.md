@@ -1,4 +1,5 @@
 # 💻 dev-shell
+![dev-shell Screenshot](screenshot.png)
 
 **dev-shell** is a powerful PowerShell-based toolkit that transforms a standard Windows machine into a hacking-ready environment — no need to switch to Linux! Whether you're a penetration tester, red teamer, or curious enthusiast, `dev-shell` equips your Windows system with offensive capabilities similar to those found in traditional Linux-based hacking distributions.
 
